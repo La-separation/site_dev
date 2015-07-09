@@ -54,6 +54,12 @@ h1 {
 	line-height : 12.5px;
 }
 
+h2 {
+	font-family : DemiHaut;
+	font-weight: normal;
+	font-size : 1.8em;
+}
+
 .top {
 	font-family : DemiHautH;
 }
@@ -87,6 +93,11 @@ q {
 a {
 	color : #FFFFFF;
 	text-decoration : none;
+}
+
+p a:hover {
+	color : #FFFFFF;
+	text-decoration : underline;
 }
 
 hr {
